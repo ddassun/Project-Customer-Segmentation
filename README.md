@@ -8,5 +8,7 @@ To identify different segments in the existing customer based on their spending 
 Key Questions:
 
 How many different segments of customers are there?
+
 How are these segments different from each other?
+
 What are your recommendations to the bank on how to better market to and service these customers?
